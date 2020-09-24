@@ -1,0 +1,11 @@
+INFO:root:alert happen, while purchase item:
+'	'{'name': 'Jacky', 'count': 1.0, 'url': 'https://24h.pchome.com.tw/prod/DBAO00-A59250393', 'item name': 'LOTTE 樂天小熊餅家庭號-巧克力(195g)'}
+INFO:root:alert happen, while purchase item:
+'	'{'name': '公款', 'count': 1.0, 'url': 'http://24h.pchome.com.tw/prod/DBARBF-A900AU55M?fq=/S/DBACRU', 'item name': '《外銷等級》台南麻豆40年文旦禮盒(5台斤/箱)'}
+INFO:root:url is not string :{'name': 'June', 'count': 1.0, 'url': nan, 'item name': '雀巢三合一咖啡-濃醇原味(100入)'}
+INFO:root:alert happen, while purchase item:
+'	'{'name': 'Maggie Wang', 'count': 1.0, 'url': 'https://24h.pchome.com.tw/prod/DEAH3A-A43408166', 'item name': '【LIFE】 特級原子印油 NO.600 (紅)'}
+INFO:root:alert happen, while purchase item:
+'	'{'name': '徐瓊瑾', 'count': 1.0, 'url': 'https://24h.pchome.com.tw/prod/DEAH6R-A60950329', 'item name': 'PLUS(Q凍)智慧型滾輪修正帶-藍'}
+INFO:root:alert happen, while purchase item:
+'	'{'name': '徐瓊瑾', 'count': 0.0, 'url': 'https://24h.pchome.com.tw/prod/DEAH6R-A60951805', 'item name': 'PLUS(Q凍)智慧型滾輪修正帶替帶-藍(10入)'}
